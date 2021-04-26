@@ -37,7 +37,7 @@ const App = () => {
       <Header>
         <Left />
         <Body>
-          <Title>Header</Title>
+          <Title>ホーム</Title>
         </Body>
         <Right>
           <Button transparent>
